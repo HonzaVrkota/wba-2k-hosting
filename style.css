@@ -1,3 +1,20 @@
 img {
-  width: 500px;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: #5e8cff;
+  padding: 20px;
+  border-radius: 10px;
+  color: wheat;
 }
